@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnmanuelOcampos
-- 👀 I’m interested in Robotics and automatization sistems
-- 🌱 I’m currently learning about data bases and robotic.
+Hi, I’m @EnmanuelOcampos
+I’m interested in Robotics and automatization sistems
+I’m currently learning about data bases and robotic.
 
